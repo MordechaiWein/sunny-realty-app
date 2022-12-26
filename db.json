@@ -1,9 +1,52 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "listings": [
+    {
+      "id": 1,
+      "type": "HOUSE",
+      "price": "300,000",
+      "bedrooms": "3 bdr",
+      "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+      "realtor": "Sam Smith",
+      "realtorLocation": "St. Louis Missouri",
+      "phone": "(314) 545-1818",
+      "license": "2136347",
+      "realtorImage": "https://feedspotinsta.s3-us-west-2.amazonaws.com/farristarazi_realtor.jpg"
+    },
+    {
+      "id": 2,
+      "type": "HOUSE",
+      "price": "450,000,000",
+      "bedrooms": "17 bdr",
+      "image": "https://photos.zillowstatic.com/fp/d2fd26d9ef2c36a7b54be7071bf1fcce-p_e.jpg",
+      "realtor": "Sally Osbourn",
+      "realtorLocation": "Chestnut Creek New York",
+      "phone": "(717) 343-1919",
+      "license": "6749256",
+      "realtorImage": "https://thumbs.dreamstime.com/b/african-american-realtor-woman-key-smiling-afro-real-estate-agent-house-79367782.jpg"
+    },
+    {
+      "id": 3,
+      "type": "HOUSE",
+      "price": "450,000",
+      "bedrooms": "5 bdr",
+      "image": "https://media.california.com/media/_versions/articles/california_real_estate_laws__2944x1931___v1222x580.jpg",
+      "realtor": "Jill Jones",
+      "realtorLocation": "Santa Monica California",
+      "phone": "(454) 345-6757",
+      "license": "9358243",
+      "realtorImage": "https://prunderground-production-public.s3.amazonaws.com/uploads/2020/07/IMG_5994-e1595354752486.jpeg"
+    },
+    {
+      "image": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://www.glenwoodnyc.com/wp-content/uploads/2022/05/2-JSP-LOBBY-01-02-1280.jpg",
+      "type": "APARTMENT",
+      "price": "5,000,000",
+      "bedrooms": "4 bdr",
+      "realtor": "Jordana Leigh",
+      "realtorLocation": "West Side Los Angeles",
+      "phone": "(565) 454-3333",
+      "license": "9873456",
+      "realtorImage": "https://myconnect.rodeore.com/ROD_PUBLIC/image_cache/AGENT/PICTURE/8CA/8CAF6BF0-FF26-44E4-A645-9CD51471859A_2.jpg?mw=500&mh=648",
+      "id": 4
+    }
+  ]
+}

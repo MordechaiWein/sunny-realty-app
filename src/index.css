@@ -5,9 +5,62 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  border: #0FBED8 solid 1px;
+  padding: 1rem;
+  width: 16rem;
+  height: 22rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  color: #0FBED8;
+ }
+
+.image {
+  justify-self: center;
+  height: 250px;
+  width: 250px;
+}
+
+.form-input{
+  width: 200px;
+  height: 30px;
+}
+
+.form-input-submit {
+  height: 37px;
+  color:#0FBED8
+}
+
+.form{
+ margin: 0 2rem;
+ color: #0FBED8;
+}
+
+.home {
+ width: 500px;
+}
+
+.realtorCard {
+  border: #0FBED8 solid 1px;
+  padding: 1rem;
+  width: 25rem;
+  height: 30rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  color: #0FBED8;
+}
+
+
+
+
+
+
+
