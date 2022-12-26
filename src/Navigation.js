@@ -15,9 +15,9 @@ function Navigation() {
     
     return (
         <div>
-            <NavLink to="/" style={linkStyles} activeStyle={{background: "#0D98BA"}}> Home </NavLink>
-            <NavLink to="/listings" style={linkStyles} activeStyle={{background: "#0D98BA"}}> Listings </NavLink>
-            <NavLink to="/realtors" style={linkStyles} activeStyle={{background: "#0D98BA"}}> realtors </NavLink>
+            <NavLink to="/" exact style={linkStyles} activeStyle={{background: "#0D98BA"}}> Home </NavLink>
+            <NavLink to="/listings" exact style={linkStyles} activeStyle={{background: "#0D98BA"}}> Listings </NavLink>
+            <NavLink to="/realtors" exact style={linkStyles} activeStyle={{background: "#0D98BA"}}> realtors </NavLink>
         </div>
     )
 }
