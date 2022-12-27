@@ -47,6 +47,30 @@
       "license": "9873456",
       "realtorImage": "https://myconnect.rodeore.com/ROD_PUBLIC/image_cache/AGENT/PICTURE/8CA/8CAF6BF0-FF26-44E4-A645-9CD51471859A_2.jpg?mw=500&mh=648",
       "id": 4
+    },
+    {
+      "image": "https://media.gettyimages.com/id/1221023970/photo/small-red-brick-house-with-green-grass.jpg?s=612x612&w=gi&k=20&c=a8TH_52RXRULOric_zzltY0HWAOGrMJw328LafFgj1M=",
+      "type": "HOUSE",
+      "price": "550,000",
+      "bedrooms": "3 bdr",
+      "realtor": "Tom Cruise",
+      "realtorLocation": "West Hampton New York",
+      "phone": "(2120 345-3333",
+      "license": "77989090",
+      "realtorImage": "https://images.squarespace-cdn.com/content/v1/59dbadb88dd041adeb5021f7/1566521319863-4BRN2EHAE7HU6CLECE6V/Matt04_WEB.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://media.gettyimages.com/id/1221023970/photo/small-red-brick-house-with-green-grass.jpg?s=612x612&w=gi&k=20&c=a8TH_52RXRULOric_zzltY0HWAOGrMJw328LafFgj1M=",
+      "type": "HOUSE",
+      "price": "550,000",
+      "bedrooms": "3 bdr",
+      "realtor": "Tom Cruise",
+      "realtorLocation": "West Hampton New York",
+      "phone": "(2120 345-3333",
+      "license": "77989090",
+      "realtorImage": "https://images.squarespace-cdn.com/content/v1/59dbadb88dd041adeb5021f7/1566521319863-4BRN2EHAE7HU6CLECE6V/Matt04_WEB.jpg",
+      "id": 6
     }
   ]
 }
