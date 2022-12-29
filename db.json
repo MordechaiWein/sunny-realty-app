@@ -6,11 +6,11 @@
       "price": "300,000",
       "bedrooms": "3 bdr",
       "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
-      "realtor": "Sam Smith",
+      "realtor": "Ryan Serhant",
       "realtorLocation": "St. Louis Missouri",
       "phone": "(314) 545-1818",
       "license": "2136347",
-      "realtorImage": "https://feedspotinsta.s3-us-west-2.amazonaws.com/farristarazi_realtor.jpg"
+      "realtorImage": "https://www.hollywoodreporter.com/wp-content/uploads/2018/04/ryanserhant-aug22-5054-p_2018.jpg?w=682"
     },
     {
       "id": 2,
@@ -18,11 +18,11 @@
       "price": "450,000,000",
       "bedrooms": "17 bdr",
       "image": "https://photos.zillowstatic.com/fp/d2fd26d9ef2c36a7b54be7071bf1fcce-p_e.jpg",
-      "realtor": "Sally Osbourn",
+      "realtor": "Kirby Mitchell",
       "realtorLocation": "Chestnut Creek New York",
       "phone": "(717) 343-1919",
       "license": "6749256",
-      "realtorImage": "https://thumbs.dreamstime.com/b/african-american-realtor-woman-key-smiling-afro-real-estate-agent-house-79367782.jpg"
+      "realtorImage": "http://ap.rdcpix.com/322658492/f00acae7dd54e0effe52d9775b077585a-c0o.jpg"
     },
     {
       "id": 3,
@@ -30,11 +30,11 @@
       "price": "450,000",
       "bedrooms": "5 bdr",
       "image": "https://media.california.com/media/_versions/articles/california_real_estate_laws__2944x1931___v1222x580.jpg",
-      "realtor": "Jill Jones",
+      "realtor": "Lilly Mail",
       "realtorLocation": "Santa Monica California",
       "phone": "(454) 345-6757",
       "license": "9358243",
-      "realtorImage": "https://prunderground-production-public.s3.amazonaws.com/uploads/2020/07/IMG_5994-e1595354752486.jpeg"
+      "realtorImage": "https://photos.zillowstatic.com/h_l/ISaphv6f30fbvc0000000000.jpg"
     },
     {
       "image": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://www.glenwoodnyc.com/wp-content/uploads/2022/05/2-JSP-LOBBY-01-02-1280.jpg",
@@ -47,30 +47,6 @@
       "license": "9873456",
       "realtorImage": "https://myconnect.rodeore.com/ROD_PUBLIC/image_cache/AGENT/PICTURE/8CA/8CAF6BF0-FF26-44E4-A645-9CD51471859A_2.jpg?mw=500&mh=648",
       "id": 4
-    },
-    {
-      "image": "https://media.gettyimages.com/id/1221023970/photo/small-red-brick-house-with-green-grass.jpg?s=612x612&w=gi&k=20&c=a8TH_52RXRULOric_zzltY0HWAOGrMJw328LafFgj1M=",
-      "type": "HOUSE",
-      "price": "550,000",
-      "bedrooms": "3 bdr",
-      "realtor": "Tom Cruise",
-      "realtorLocation": "West Hampton New York",
-      "phone": "(2120 345-3333",
-      "license": "77989090",
-      "realtorImage": "https://images.squarespace-cdn.com/content/v1/59dbadb88dd041adeb5021f7/1566521319863-4BRN2EHAE7HU6CLECE6V/Matt04_WEB.jpg",
-      "id": 5
-    },
-    {
-      "image": "https://media.gettyimages.com/id/1221023970/photo/small-red-brick-house-with-green-grass.jpg?s=612x612&w=gi&k=20&c=a8TH_52RXRULOric_zzltY0HWAOGrMJw328LafFgj1M=",
-      "type": "HOUSE",
-      "price": "550,000",
-      "bedrooms": "3 bdr",
-      "realtor": "Tom Cruise",
-      "realtorLocation": "West Hampton New York",
-      "phone": "(2120 345-3333",
-      "license": "77989090",
-      "realtorImage": "https://images.squarespace-cdn.com/content/v1/59dbadb88dd041adeb5021f7/1566521319863-4BRN2EHAE7HU6CLECE6V/Matt04_WEB.jpg",
-      "id": 6
     }
   ]
 }

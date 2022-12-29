@@ -2,15 +2,12 @@ import React, { useState } from "react";
 
 function RealtorContainer({listing}) {
     
-    const[star, setStar] = useState("")
+    const[star, setStar] = useState(false)
     
     function like() {
-        setStar("⭐️")
+        setStar(!star)
     }
-    function dislike() {
-        setStar("")
-    }
-
+ 
     return (
         <div className="realtorCard">
             <img src={listing.realtorImage} className="image"/>
@@ -19,7 +16,7 @@ function RealtorContainer({listing}) {
             <p>Phone: {listing.phone}</p>
             <p>License: {listing.license}</p>
             <div>
-                <p>Good Realtor? <button onClick={like}>yes</button> <button onClick={dislike}>no</button> {star}</p>
+                <h3><button className="color" onClick={like}>Star</button> {star ? "⭐️" : ""}</h3>
             </div>
         </div>
     )
